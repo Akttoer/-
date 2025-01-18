@@ -1,0 +1,8 @@
+pyinstaller
+configparser
+os
+requests
+json
+chardet
+csv
+tkinter
